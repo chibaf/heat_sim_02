@@ -1,2 +1,2 @@
 # heat_sim_02
-heat simulator
+heater simulator
